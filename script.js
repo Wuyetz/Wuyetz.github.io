@@ -1066,7 +1066,7 @@ refresh.onclick = function(){
     $("#groupg").toggle();
     $("#grouph").toggle();
     
-    $("#instr").toggle();
+    $("#instr").show();
 
     document.getElementById("W7").innerHTML = "";
     document.getElementById("W8").innerHTML = "";
