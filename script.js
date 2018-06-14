@@ -292,7 +292,7 @@ function compareInt0(p1,p2) {
 }
 
 
-// fills out "myTable" with that group´s info when called
+// fills out "myTable" with that groupÂ´s info when called
 function table (group){
     
     document.getElementById("Tn").innerHTML = "TEAM";
@@ -328,7 +328,7 @@ var isInstrVisible = queryInstr.is(":visible");
 
 
 groupa.onclick = function(){
-    // shows "myTable", hides this group´s button
+    // shows "myTable", hides this groupÂ´s button
     $("#myTable").show();
     $("#groupa").toggle(300);
     // fills out appropriate html with results of group matches
@@ -339,7 +339,7 @@ groupa.onclick = function(){
     document.getElementById("S3").innerHTML = result(groupA[1],groupA[3],3,groupA);
     document.getElementById("S4").innerHTML = result(groupA[0],groupA[3],4,groupA);
     document.getElementById("S5").innerHTML = result(groupA[1],groupA[2],5,groupA);
-    // hides "instr" if it´s not hidden already
+    // hides "instr" if itÂ´s not hidden already
     if(isInstrVisible === true){
     $("#instr").hide()}   
     // calculates goal differences
@@ -1065,6 +1065,8 @@ refresh.onclick = function(){
     $("#groupf").toggle();
     $("#groupg").toggle();
     $("#grouph").toggle();
+    
+    $("#instr").toggle();
 
     document.getElementById("W7").innerHTML = "";
     document.getElementById("W8").innerHTML = "";
