@@ -1,4 +1,6 @@
 body {
+	
+/*	
     background: linear-gradient(
         to bottom,
         #5d9634,
@@ -11,7 +13,10 @@ body {
     );
     
     background-size: 100% 200px;
-    
+*/
+
+    background: linear-gradient(to left, #76C672, #5C9C59);   
+
     font-family: Verdana, Geneva, sans-serif;
     font-size: 14px;
     font-style: normal;
