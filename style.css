@@ -1,22 +1,18 @@
 body {
-	
-/*	
-    background: linear-gradient(
+/*    background: linear-gradient(
         to bottom,
-        #5d9634,
-        
-	#5d9634 50%,
-        
-	#538c2b 50%,
-        
-	#538c2b
+        #76C672,
+        #76C672 50%,
+        #5C9C59 50%,
+        #5C9C59
     );
     
     background-size: 100% 200px;
-*/
-
-    background: linear-gradient(to left, #76C672, #5C9C59);   
-
+*/    
+    background: linear-gradient(to left, #76C672, #5C9C59);
+    
+    
+    
     font-family: Verdana, Geneva, sans-serif;
     font-size: 14px;
     font-style: normal;
@@ -32,7 +28,7 @@ h1 {
 }
 
 .groupButtonsA button {
-    background-image: linear-gradient(#004d00, #008000);
+    background-image: linear-gradient(#63A4CB, #71BCE9);
     border: none;
     color: white;
     padding: 4px 12px;
@@ -48,7 +44,7 @@ h1 {
 }
 
 .groupButtonsB button {
-    background-image: linear-gradient(#008000, #00b300);
+    background-image: linear-gradient(#65A4CA, #6FB4DE);
     border: none;
     color: white;
     padding: 4px 12px;
@@ -64,7 +60,7 @@ h1 {
 }
 
 .laterButtons button {
-    background-image: linear-gradient(#009900, #00cc00);
+    background-image: linear-gradient(#477691, #568EAF);
     border: none;
     color: white;
     padding: 3px 12px;
