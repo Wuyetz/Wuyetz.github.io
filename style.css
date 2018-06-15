@@ -1,5 +1,5 @@
 body {
-/*    background: linear-gradient(
+    background: linear-gradient(
         to bottom,
         #76C672,
         #76C672 50%,
@@ -7,9 +7,9 @@ body {
         #5C9C59
     );
     
-    background-size: 100% 200px;
-*/    
-    background: linear-gradient(to left, #76C672, #5C9C59);
+    background-size: 100% 240px;
+    
+//    background: linear-gradient(to left, #76C672, #5C9C59);
     
     
     
