@@ -1,13 +1,13 @@
 body {
     background: linear-gradient(
-        to bottom,
+        to left,
         #69a066,
         #69a066 50%,
         #7eb77b 50%,
         #7eb77b
     );
     
-    background-size: 100% 240px;
+    background-size: 100% 20%;
     
 //    background: linear-gradient(to left, #76C672, #5C9C59);
     
